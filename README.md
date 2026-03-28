@@ -1,7 +1,7 @@
 # 🏨 Hotel Booking Cancellation Predictor
 
 ## 🌐 Live Demo
-[Paste your live app link]
+https://hotel-booking-predictor-23petwsofkvnsgq7dh69kp.streamlit.app
 
 ## 📌 Project Overview
 This project predicts whether a hotel booking will be cancelled using Machine Learning.
